@@ -1,1 +1,1 @@
-# Discord-kay-t-botu
+# Discord-kayit-botu
