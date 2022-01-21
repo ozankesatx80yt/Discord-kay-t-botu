@@ -11,6 +11,6 @@
 #sizleri seviyorum iyi kodlamalar 
 
 
-# tarih : 21/01/2022
+# Tarih : 21/01/2022
 
 #çıkış tarihi : 21/02/2022
